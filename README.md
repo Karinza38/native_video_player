@@ -1,4 +1,4 @@
-# native_video_player
+ # native_video_player
 
 [![Pub](https://img.shields.io/pub/v/native_video_player)](https://pub.dev/packages/native_video_player)
 
